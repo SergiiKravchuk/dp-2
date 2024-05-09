@@ -1,6 +1,5 @@
 package com.example.dp2;
 
-import com.example.dp2.client.HttpClientService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
